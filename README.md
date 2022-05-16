@@ -1,3 +1,3 @@
-# Gatsby Theme Intro Example
+# Portfolio
 
-A usage of [gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro) that does nothing but use the theme.
+It is build with [gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro).
