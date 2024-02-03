@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Portfolio of Iftekhar Riyad",
+    description: "Portfolio of Ifthakhar Ahmaad Riyad",
     locale: "en",
-    title: "Iftekhar Riyad",
+    title: "Ifthakhar Ahmaad Riyad",
     formspreeEndpoint: "https://formspree.io/f/mqknwggj",
   },
   plugins: [
@@ -16,4 +16,4 @@ module.exports = {
       },
     },
   ],
-}
+};

@@ -1,24 +1,21 @@
 - profile:
   initials: IR
-  name: Iftekhar Riyad
+  name: Ifthakhar A. Riyad
   profession: Software Engineer
   image: images/profile.jpg
   location: Sylhet, BD
   relocation: true
-  company: Energime University
+  company: Energime Institute
   for_hire: true
   focus: Go
   focus_url: https://go.dev/
   about: |
     As a Software Engineer, My expertise in JavaScript/React/Node with strong skills in Express, GraphQl, Material-UI, jQuery, Bootstrap, HTML5, Saas, and CSS3. I love working with Javascript, React.js and Node and have experience working with them. I don't confine myself with my knowledge in software development rather try to broaden my horizon by learning and building more.
-
-    As a Freelancer, I provide Software Development solutions all over the world. From personal blogs to enterprise-level web applications with my expertise and experience I deliver optimized, scalable web applications on time. I also provide my services at Upwork and PeoplePerHour.
   skills:
     - React
     - Node
     - SQL
   tools:
-    - Vim
     - VSCode
   budget:
     currency: $

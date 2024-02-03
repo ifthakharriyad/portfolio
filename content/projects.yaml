@@ -1,29 +1,20 @@
-- name: LineupApp - a waitlist Sass with walk-ins and appoinments.
-  url: https://app.lu-app.com/
-  description: Upgraded login and sign up functionality with multi-step form, smart auto-fill of optional fields in sign up. Expanded watilist from single line to multi line. Made UI/UX audit of the whole app and made many UI/UX improvements. Fixed some critical bugs in the app.
-  status: live
-  tags:
-    - React
-    - Material-UI
-    - Styled Components
-    - Node
-    - Socket.io
-    - mysql
-    - Redis
-    - Sequalize
-    - Twilio
-    - Docker
-    - Kubernetes
-  icon: website
-  image: images/lineupapp.webp
-
 - name: Compresspedia - an online tool for bulk file compression
   url: https://compresspedia.com
-  description: Compresspedia is a free online mass image, pdf, and video compressor. I have used React and Material-UI to build the UI and Node, Express, other system programs to build the compression api.
+  description: Compresspedia is a free online mass image compressor. I have used React and Material-UI to build the UI and Node, Express, and other system programs to build the compression API.
   status: live
   tags:
     - React
     - Material-UI
     - Node
     - Express
+  icon: website
+- name: Cricket Highlights
+  url: https://crickethighlights.org/
+  description: I have designed and developed cricket highlights from scratch. React and Redux are used as the primary technologies for this site. For styling, I have used styled components and vanilla CSS.
+  status: live
+  tags:
+    - React
+    - Styled Components
+    - Redux
+    - CSS
   icon: website

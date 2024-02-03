@@ -1,14 +1,19 @@
-- company: Energime University
+- company: Energime Institute
   position: Senior Software Engineer
-  period: February 2021 - present
-  url: https://energimeuniversity.org
-
-- company: Freelance
-  position: Software Engineer
-  period: April 2021 - present
-  url: https://www.peopleperhour.com/freelancer/technology-programming/iftekhar-riyad-expert-software-developer-qmmxwmv
+  period: March 2022 - present
+  url: https://energimeinstitute.org
 
 - company: LineupAppQ
   position: Software Engineer
   period: October 2021 - February 2022
   url: https://www.lineupappq.com/
+
+- company: Energime Institute
+  position: Software Engineer
+  period: February 2021 - September 2021
+  url: https://energimeinstitute.org
+
+- company: Mentomeet
+  position: Frontend Engineer
+  period: August 2020 - September 2020
+  url: https://mentomeet.com/
